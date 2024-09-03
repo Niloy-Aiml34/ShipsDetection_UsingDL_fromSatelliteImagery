@@ -1,6 +1,6 @@
 # Ship Detection from Satellite Imagery
 
-<img src="https://miro.medium.com/v2/resize:fit:1024/0*Q37p9KiX-N3l9kIb.png" alt="Ship Detection Illustration" width="500"/>
+<img src="https://miro.medium.com/v2/resize:fit:1024/0*Q37p9KiX-N3l9kIb.png" alt="Ship Detection Illustration" width="1000"/>
 
 ## 🚢 Detecting Ships using Satellite Images with Deep Learning 🌍
 
