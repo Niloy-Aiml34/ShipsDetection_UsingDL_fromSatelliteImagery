@@ -48,4 +48,4 @@ Ensure that the following dependencies are installed:
 ### Running the Notebook
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Ship-Detection-DL.git
+   git clone https://github.com/Niloy-Aiml34/ShipsDetection_UsingDL_fromSatelliteImagery
